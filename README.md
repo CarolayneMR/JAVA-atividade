@@ -1,2 +1,2 @@
-## Atividade feita no JAVA ((Materia: POO))
+## Atividade feita no JAVA.
 Estudinho.
